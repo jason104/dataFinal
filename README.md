@@ -1,0 +1,1 @@
+implemented some traditaional optimzing algorithm
